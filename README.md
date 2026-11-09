@@ -1,6 +1,8 @@
 # cutaway
 
 A Claude Code skill that turns one picture into a 3D object that takes itself apart.
+**Note**
+You can ask your preferred AI to learn this skill and import it , so it cab be used with any other AI LLM
 
 Give Claude an image of a robotic animal, a machine or a device. It rebuilds it in three.js, every shell, gear and fang written as code, checks the build against the picture line by line, and films it: a cursor presses a button, that part comes apart under its own camera, then the whole object explodes and snaps back together.
 
